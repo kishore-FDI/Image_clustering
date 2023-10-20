@@ -16,9 +16,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
 ### With 2 Cluster 
 <div align="center">  
 
@@ -27,7 +24,10 @@
 </div>
 
 </td><td valign="top" width="33%">
-
+ <div>
+###With 3 Cluster
  
+ ![download](https://github.com/kishore-FDI/Image_clustering/assets/147427164/6daed253-e910-47c6-aeb9-774b6ca5d8a4)
 
-<br/>  
+</div>
+</td>
