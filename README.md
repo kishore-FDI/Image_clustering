@@ -1,31 +1,7 @@
 # Image_clustering
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.box {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  width: 800px;
-  height: 600px;
-  border: 2px solid black;
-  padding: 10px;
-}
-.box img {
-  width: 380px;
-  height: 280px;
-}
-</style>
-</head>
-<body>
+<div>
+  This is the Original Image
+  | ![football_PNG52772](https://github.com/kishore-FDI/Image_clustering/assets/147427164/6e459c39-9fc1-447f-8583-7dcc267cf012) |
+  [:---:|
 
-<div class="box">
-  <img src='URL-of-your-image-1' alt='Image 1'>
-  <img src='URL-of-your-image-2' alt='Image 2'>
-  <img src='URL-of-your-image-3' alt='Image 3'>
-  <img src='URL-of-your-image-4' alt='Image 4'>
 </div>
-
-</body>
-</html>
