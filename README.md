@@ -1,8 +1,8 @@
 # Image_clustering
 <div>
   The original image
-  
-  ![Uploading football_PNG52772.png…]()
+  ![OIP](https://github.com/kishore-FDI/Image_clustering/assets/147427164/659408b7-f119-4e37-91b7-245a3826ae69)
+
 
 </div>
 <
