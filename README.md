@@ -1,6 +1,11 @@
 # Image_clustering
-
-## My Skill Set  
+<div>
+ This was the original Image
+ <table><tr><td valign="top" width="33%">
+  
+  ![OIP](https://github.com/kishore-FDI/Image_clustering/assets/147427164/88a21649-0643-4f64-a2e3-a6a8c207fe57)
+</td>
+</div>
 <table><tr><td valign="top" width="33%">
 
 
